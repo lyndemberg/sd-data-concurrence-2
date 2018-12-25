@@ -1,0 +1,1 @@
+java -jar target/sd-data-concurrence-2-jar-with-dependencies.jar instance02 ${PWD}/fileLock.txt 10
